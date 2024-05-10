@@ -16,6 +16,7 @@ Predict the CO2 emission of a car where the weight is 3300kg, and the volume is 
 ### Step5
 Print the predicted output.
 ## Program:
+```
 Implementation of Multivariate Linear Regression
 Developed by: K.HEMANATH
 Register Number: 212223100012
@@ -29,6 +30,7 @@ regr.fit(a,b)
 print("Coefficient: ",regr.coef_)
 print("Intercept:",regr.intercept_)
 print("Account",regr.predict([[3300,1300]]))
+```
 ## Output:
 ![AI](https://github.com/Sabari-2005/Multivariate-Linear-Regression/assets/139338709/35a375c2-154a-494a-9d2c-68cabb27eade)
 ## Result
