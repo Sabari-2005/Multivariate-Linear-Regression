@@ -18,8 +18,8 @@ Print the predicted output.
 ## Program:
 ```
 Implementation of Multivariate Linear Regression
-Developed by: K.HEMANATH
-Register Number: 212223100012
+Developed by: R.SABARINATH
+Register Number: 212223100048
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("car.csv")
@@ -32,6 +32,7 @@ print("Intercept:",regr.intercept_)
 print("Account",regr.predict([[3300,1300]]))
 ```
 ## Output:
-![AI](https://github.com/Sabari-2005/Multivariate-Linear-Regression/assets/139338709/35a375c2-154a-494a-9d2c-68cabb27eade)
+![output](https://github.com/Sabari-2005/Multivariate-Linear-Regression/assets/139338709/64ec578f-c61e-4873-9555-9822ffe976b2)
+
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
